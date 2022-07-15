@@ -1,7 +1,11 @@
 # picons-plutotv
-Actualizado a 15/07/2022
+Actualizado a 16/07/2022
 
 Picons de PlutoTV descargados de la web oficial pluto.tv para usar en decodificadosres enigma2
+
+Formato: png
+
+Tamaño: 220x124
 
 La sintaxis del servicio ha sido creada de forma numerada para un uso mas sencillo teniendo que modificar solo 3 digitos en caso de ser necesario
 
