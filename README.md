@@ -17,4 +17,4 @@ Ejemplos:
 
 4097_0_1_AAAA_A076_EC_0_0_0_0 - archivos forenses
 
-4097_0_1_AAAA_A112_EC_0_0_0_0 - People are awesome
+4097_0_1_AAAA_A112_EC_0_0_0_0 - people are awesome
