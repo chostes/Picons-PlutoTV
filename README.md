@@ -1,5 +1,5 @@
 # picons-plutotv
-Actualizado a 16/07/2022
+Actualizado a 27/07/2022
 
 Picons de PlutoTV descargados de la web oficial pluto.tv para usar en decodificadosres enigma2
 
