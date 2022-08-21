@@ -1,5 +1,9 @@
 # picons-plutotv
-Actualizado a 27/07/2022
+Actualización 21/08/2022
+Añadido Melrose Place
+
+Actualización 27/07/2022
+Añadido MTV Geordies
 
 Picons de PlutoTV descargados de la web oficial pluto.tv para usar en decodificadosres enigma2
 
